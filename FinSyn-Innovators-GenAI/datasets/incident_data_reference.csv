@@ -1,0 +1,61 @@
+incident_text
+"User's VDI session has become unresponsive, and they are unable to perform any actions. They require help killing the session."
+User is requesting help to terminate an unresponsive VDI session. They are unable to log out and need the session killed immediately.
+"User reports that their browser, Google Chrome, will not open on macOS, despite restarting the system. They need help troubleshooting the problem."
+User's external monitor connected via the docking station is not showing any display. They require support in fixing the docking station issue on macOS.
+"User reports a Google issue on Safari on macOS. Google fails to load properly, while other websites open fine. The user is asking for help to resolve this."
+"User is experiencing an issue with their macOS docking station, where the external monitor does not display anything. They require assistance to resolve the issue."
+"A user is unable to log into their macOS device after resetting the password. They continue receiving an error that the credentials are invalid, and they need support."
+A user reports their VDI session has become completely unresponsive and requests help to terminate the session as they cannot log out or restart it manually.
+"A user is encountering a 'no writable volume' error on VDI, preventing them from saving documents. They require assistance with fixing this issue."
+"User reports that after resetting their password on macOS, they are unable to log into the system. The new password is not accepted, and they need support."
+"A user is locked out of their macOS device after attempting a password reset. The system does not accept the new credentials, and they are requesting support to regain access."
+"User reports a failure to update their Windows system, and despite multiple attempts, the update does not complete. They need assistance to resolve this issue."
+A user is unable to perform any actions in their VDI session due to it being frozen. They need help terminating the session and starting a new one.
+Google Chrome is crashing on launch every time a user tries to open it on their macOS device. They are seeking support to resolve the issue.
+"A user is facing a display issue with their docking station on macOS. The monitor shows no signal despite the docking station being properly connected, and the user needs assistance."
+User reports their macOS is experiencing an issue where the docking station fails to send a signal to the external monitor. They need assistance troubleshooting.
+A user cannot log in to their macOS device after attempting a password reset. They are requesting assistance with troubleshooting the login issue.
+MacOS login issue persists even after a password reset attempt. The user needs assistance as the system keeps rejecting the new password.
+"Unable to save files on VDI, a user is facing a persistent 'no writable volume' error and needs help to resolve the issue."
+A user on macOS is unable to access the VPN due to frequent disconnections. They need help with troubleshooting the VPN connectivity issue.
+The user was unable to find their saved documents on the desktop after a system reboot. They are requesting help to recover the lost files from the VDI.
+"After a recent macOS restart, a user is unable to log in. They have attempted to reset their password, but they are still unable to access their account."
+"User is experiencing issues with Google not loading in Safari. Other websites work fine, but Google fails to open, and the user seeks troubleshooting assistance."
+User is unable to connect to the VPN on their macOS system. They are facing an 'authentication failed' error every time they try to connect and require help.
+The VDI session has frozen and no longer responds to commands. The user is requesting that the session be killed so they can start a new one.
+"User reports an issue with Okta on Windows, where they are unable to authenticate. The Okta verification step fails, and they are requesting troubleshooting assistance."
+"A user is unable to get the external monitor working via the docking station on macOS. The monitor shows no signal, and the user needs troubleshooting help."
+"A user cannot open Google Chrome on their macOS device. They mentioned that it was working fine earlier today, but now it refuses to launch. They need troubleshooting assistance."
+"A user is unable to access Google on Safari, even though other websites load without problems. They are requesting help to troubleshoot the issue."
+"A user is unable to sign in to their macOS device after a password reset. They have entered the new password, but it is not being accepted by the system."
+"User is unable to log into their macOS system after a password reset. The login screen continues rejecting the new password, and they need help resolving the issue."
+"User is encountering a login issue on macOS after resetting their password. They are unable to sign in with the new password, and they need help."
+"Unable to close their unresponsive VDI session, a user is asking for assistance to kill the session and free up system resources."
+"User is unable to use their docking station to connect their macOS laptop to an external monitor. The monitor shows no signal, and the user is asking for help."
+"After resetting their macOS password, a user is unable to log in. They receive an error message every time they try to sign in and need assistance."
+A user is having trouble saving files on VDI due to a 'no writable volume' error. They need support to resolve this issue.
+User on VDI is facing a session freeze and requests help killing the session. They are unable to log out or restart the session and need immediate support.
+"User is having login issues after resetting their macOS password. They have entered the correct new password, but it is still being rejected."
+"User is encountering VPN connectivity issues on macOS. The VPN connection drops every few minutes, and the user requires support in resolving the problem."
+User cannot complete the Okta verification process on their Windows device. They need help troubleshooting the authentication failure.
+"A user reported that after logging into their VDI session, all of their files and folders were missing from the desktop. They are asking if there's a way to recover the lost files."
+"On macOS, Google Chrome fails to open after the user tried restarting their device. They are asking for assistance in fixing the browser issue."
+"After resetting their password, a user is locked out of their macOS device. The system does not accept the new password, and they need assistance to fix this."
+"A missing file issue was reported on VDI, with the user stating that a critical report they saved yesterday is no longer available on the desktop or documents folder. They need assistance to locate the file."
+"User is asking for help with a docking station issue on macOS. The external monitor is not displaying anything, and the user requires assistance in fixing the problem."
+"A user is having issues with their Windows system update. The update process fails repeatedly, and they need assistance to successfully complete the update."
+"User is facing issues with Safari on macOS, where Google doesn't load while other sites do. They need help resolving this browser issue."
+"A user reported encountering a 'no writable volume' error while trying to save a document on their VDI. They have restarted their session, but the issue persists and need assistance."
+"User requests help killing an unresponsive VDI session. The session is stuck, and they need immediate assistance to free up system resources."
+A user cannot establish a stable VPN connection on macOS. They are facing frequent disconnects and need troubleshooting assistance to fix the issue.
+An error message indicating 'no writable volume' appears whenever a user attempts to save or modify any file on VDI. The user needs help resolving this problem.
+A 'no writable volume' issue is preventing the user from saving any documents on VDI. The user seeks support to restore writable access.
+"User is facing a persistent 'no writable volume' error on VDI. Despite restarting their session, they are unable to save any files, requiring immediate assistance."
+Windows update is failing every time a user tries to install the latest update. They need support to complete the update process.
+"User reports that the docking station is not working correctly with their macOS device. They cannot get a signal on the monitor, and need troubleshooting help."
+"After logging into the VDI session, a user is unable to find any files or folders they saved earlier. They would like to know if there is any way to retrieve their missing files."
+"User is experiencing an error when attempting to update their Windows system. The update fails each time, and they need support to finish the installation."
+"Unable to authenticate through Okta on Windows, a user seeks assistance with resolving the issue preventing them from logging in."
+Okta login on Windows is not working for a user. They cannot authenticate their credentials through Okta Verify and need help resolving the issue.
+A user needs help with a 'no writable volume' error on VDI. They are unable to save or modify any files and require assistance in fixing this error.

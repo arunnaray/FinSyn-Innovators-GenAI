@@ -1,0 +1,1 @@
+source /Users/apple/Documents/Priyesh/VirtualEnvs/syn_data_gen_venv/bin/activate

@@ -1,0 +1,11 @@
+ID,Name,Age,Department,Salary,Date_of_Joining,Band Level,Years of Experience,Last Performance Rating,Laptop Assigned,Number of tickets raised in a month
+EMP01,John Doe,28,Engineering,70000,2019-04-23,60,5,2,Lenevo,2
+EMP02,Jane Smith,34,Marketing,65000,2018-11-05,28,4,2,Lenevo,4
+EMP03,Sam Brown,26,Engineering,72000,2020-06-17,28,5,1,MacBook Pro,3
+EMP04,Emily White,29,HR,60000,2019-02-15,90,5,5,Dell,3
+EMP05,Michael Green,40,Engineering,80000,2015-08-09,200,18,3,MacBook Air,2
+EMP06,Amy Black,31,Sales,55000,2017-01-11,45,4,2,Dell,5
+EMP07,David Blue,38,Engineering,75000,2016-09-21,90,7,1,Lenevo,2
+EMP08,Laura Gray,27,Marketing,62000,2020-01-10,30,2,1,Windows Surface,4
+EMP09,James Yellow,33,HR,58000,2018-06-25,45,4,4,Lenevo,2
+EMP10,Olivia Purple,29,Engineering,73000,2019-10-02,30,2,1,Windows Surface,2
